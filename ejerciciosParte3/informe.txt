@@ -1,0 +1,6 @@
+Informe – Turismo en Baleares
+
+1. El gráfico de barras esneña que los meses de julio y agosto concentran el mayor número de visitantes.
+2. El gráfico de líneas indica que el gasto medio aumenta en temporada alta, alcanzando su máximo en agosto.
+3. El gráfico de sectores refleja que la estancia media es más larga en verano, mientras que en invierno se reduce notablemente.
+
